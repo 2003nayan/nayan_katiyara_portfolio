@@ -13,7 +13,7 @@ export function WordsFlipper() {
 
   const handleHireMeClick = () => {
     window.location.href =
-      "https://drive.google.com/file/d/1JC0WoFIb_drdlj8ZLPfIsZVXByh3nhqH/view?usp=drive_link";
+      "https://drive.google.com/file/d/1F7EIGTWlzdLhTtcLI2dT2y9163p7qcG-/view?usp=drive_link";
   };
 
   return (
